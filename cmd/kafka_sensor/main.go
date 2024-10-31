@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/tiko-star/event_hub/internal/config"
+	"github.com/tiko-star/eh/internal/config"
 )
 
 func main() {
