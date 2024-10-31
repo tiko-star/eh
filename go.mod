@@ -1,4 +1,4 @@
-module event_hub
+module github.com/tiko-star/event_hub
 
 go 1.22
 
