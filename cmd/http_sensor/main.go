@@ -1,8 +1,8 @@
 package main
 
 import (
-	"event_hub/internal/config"
 	"fmt"
+	"github.com/tiko-star/event_hub/internal/config"
 )
 
 func main() {
